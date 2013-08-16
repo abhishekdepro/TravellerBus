@@ -1,0 +1,97 @@
+﻿#wrapper {
+	border-left: thin solid #333;
+    border-right: thin solid #333;
+width: 1001px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	}
+#wrapper #logo {
+	background-color: #FFF;
+	height: 150px;
+}
+#wrapper #menustrip {
+	background-color: #000;
+	height: 40px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #333;
+	border-right-color: #333;
+	border-bottom-color: #333;
+	border-left-color: #333;
+}
+h1 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 20px;
+	color: #CCC;
+	position: absolute;
+	width: 470px;
+}
+/* CSS Document */
+
+#wrapper #logo #signin {
+	background-color: #FFF;
+	height: 150px;
+	width: 500px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #F00;
+	border-right-color: #F00;
+	border-bottom-color: #F00;
+	border-left-color: #F00;
+}
+#wrapper #logo #image_logo {
+	width: 500px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #F00;
+	border-right-color: #F00;
+	border-bottom-color: #F00;
+	border-left-color: #F00;
+}
+#wrapper #logo #signin {
+	width: 500px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #F00;
+	border-right-color: #F00;
+	border-bottom-color: #F00;
+	border-left-color: #F00;
+}
+._button {
+	background-color: #999;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-color: #333;
+	border-right-color: #333;
+	border-bottom-color: #333;
+	border-left-color: #333;
+	margin: 2px;
+	padding: 5px;
+	height: 30px;
+	width: 50px;
+}
+#wrapper #BodyTheme {
+	height: 400px;
+    border-top-style: solid;
+    border-top-color: #FF0000;
+    border-bottom-style: solid;
+    border-bottom-color: #FF0000;
+}
+#wrapper #Footer {
+	background-color: #000;
+	height: 40px;
+}
+body {
+	background-color: #999;
+}
